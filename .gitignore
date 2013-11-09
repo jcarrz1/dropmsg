@@ -29,4 +29,4 @@ proguard/
 .idea/
 
 # Ignore Android Files
-local.properties
+*local.properties
