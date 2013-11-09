@@ -11,6 +11,9 @@
 # generated files
 bin/
 gen/
+build/
+.gradle/
+.idea/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -30,3 +33,7 @@ proguard/
 
 # Ignore Android Files
 *local.properties
+--help
+build/
+.idea/
+.gradle/
