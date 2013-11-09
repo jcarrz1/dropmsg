@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/home/james/Downloads/solutions-mobile-backend-starter-android-client-master/assets" />
+        <source path="/Users/paulmoulton/Documents/CS/dropmsg/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/home/james/Downloads/solutions-mobile-backend-starter-android-client-master/build-types/debug/assets" />
+        <source path="/Users/paulmoulton/Documents/CS/dropmsg/build-types/debug/assets" />
     </dataSet>
 
 </merger>

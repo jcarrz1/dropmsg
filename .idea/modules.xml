@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/dropmsg.iml" filepath="$PROJECT_DIR$/dropmsg.iml" />
       <module fileurl="file://$PROJECT_DIR$/solutions-mobile-backend-starter-android-client-master.iml" filepath="$PROJECT_DIR$/solutions-mobile-backend-starter-android-client-master.iml" />
     </modules>
   </component>
